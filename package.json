@@ -1,7 +1,7 @@
 {
-    "name": "TYRAX",
+    "name": "FIRE MD",
     "version": "2.1.0",
-    "description": "I DON'T KNOW WHAT AM DOING BUT I'LL NEVER LOSE",
+    "description": "A FIRE NATION  BY OPAKSFIRE",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -17,16 +17,16 @@
         "test": "node test.js"
     },
     "keywords": [],
-    "homepage": "https://github.com/Kingdragony/TYRAX/",
+    "homepage": "https://github.com/Opaksfire/FIRE-MD/",
     "author": {
         "name": "OPAKSFIRE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Kingdragony/TYRAX.git"
+        "url": "git+https://github.com/Opaksfire/FIRE-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Kingdragony/TYRAX/issues"
+        "url": "https://github.com/Opaksfire/FIRE-MD/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
